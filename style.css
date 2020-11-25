@@ -24,17 +24,17 @@ body, html {
 }
 
 .pimg2{
-    background-image: url('img/jo.jpeg');
+    background-image: url('img/aaron.jpeg');
     min-height: 100%;
 }
 
 .pimg3{
-    background-image: url('img/brady.jpg');
+    background-image: url('img/pat.webp');
     min-height: 100%;
 }
 
 .pimg4{
-    background-image: url('img/browns.jpeg');
+    background-image: url('img/kyler.jpg');
     min-height: 100%;
 }
 .pimg5{
@@ -46,11 +46,11 @@ body, html {
     min-height: 100%;
 }
 .pimg7{
-    background-image: url('img/browns.jpeg');
+    background-image: url('img/pat.webp');
     min-height: 100%;
 }
 .pimg8{
-    background-image: url('img/browns.jpeg');
+    background-image: url('img/russ.jpg');
     min-height: 100%;
 }
 
@@ -94,11 +94,11 @@ a{
     color: black;
 }
 a:hover{
-    color: gold;
+    color: chartreuse;
 }
 
-@media(max-width:568px){
+/* @media(max-width:568px){
     .pimg1, .pimg2, .pimg3, .pimg4{
         background-attachment: scroll;
     }
-}
+} */
